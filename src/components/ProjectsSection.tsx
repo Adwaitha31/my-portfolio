@@ -22,13 +22,13 @@ const projects = [
   {
     title: 'SmartPKU – Edge–Fog Simulation',
     description: 'Built an iFogSim-based edge–fog simulation with two-level threshold detection for real-time Phenylalanine monitoring. Implemented dietary alerts and emergency triggers.',
-    tech: ['iFogSim', 'Edge Computing', 'Java', 'IoT'],
+    tech: ['iFogSim', 'Edge Computing', 'Java'],
     github: 'https://github.com/23CSE362-edge-computing-2025-26-odd/capstone-project-30_404-brain-not-found/tree/main',
   },
   {
     title: 'Habit Tracker Application',
     description: 'Developed a personal habit tracking application to monitor daily routines and consistency. Focused on clean UI design and simple progress tracking.',
-    tech: ['React', 'JavaScript', 'CSS', 'UI/UX'],
+    tech: ['Flutter Web', 'Dart'],
     github: 'https://github.com/Adwaitha31/habittracker-web',
   },
 ];

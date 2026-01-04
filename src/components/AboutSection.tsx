@@ -47,12 +47,7 @@ const AboutSection = () => {
               gyroscope-based controllers to implementing genetic algorithms and smart 
               contracts, I enjoy tackling challenging problems across the technology stack.
             </p>
-            <p className="text-muted-foreground leading-relaxed">
-              I'm currently working as a Software Development Intern at Metatron Cube 
-              Software Solutions, where I contribute to real-world application development 
-              and collaborative workflows. I'm always eager to learn new technologies and 
-              apply them to solve meaningful problems.
-            </p>
+            
           </div>
         </div>
       </div>
