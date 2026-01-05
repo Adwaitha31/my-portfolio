@@ -12,7 +12,7 @@ const HeroSection = () => {
       <div className="container mx-auto px-6 relative z-10">
         <div className="max-w-4xl mx-auto text-center">
           <p className="text-primary code-font text-sm md:text-base mb-4 animate-fade-in">
-            Hi, i am
+            Hi, I am
           </p>
           
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-4 animate-slide-up">
