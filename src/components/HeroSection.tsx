@@ -1,6 +1,6 @@
 import { ArrowDown, Github, Linkedin, Mail, Download } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import resume from "../assets/resume.pdf";
+import resume from "../assets/Adwaitha_resume(1).pdf";
 
 const HeroSection = () => {
   return (
