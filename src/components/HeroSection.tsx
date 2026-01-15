@@ -1,6 +1,6 @@
 import { ArrowDown, Github, Linkedin, Mail, Download } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import resume from "../assets/Adwaitha_resume(1).pdf";
+import resume from "../assets/Adwaitha_resume.pdf";
 
 const HeroSection = () => {
   return (
@@ -42,7 +42,7 @@ const HeroSection = () => {
               className="bg-primary text-primary-foreground hover:bg-primary/90"
               asChild
             >
-              <a href="/Adwaitha_resume(1).pdf" download>
+              <a href="/Adwaitha_resume.pdf" download>
                 <Download size={18} className="mr-2" />
                 Download Resume
               </a>
