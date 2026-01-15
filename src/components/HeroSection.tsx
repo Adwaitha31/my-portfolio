@@ -42,7 +42,7 @@ const HeroSection = () => {
               className="bg-primary text-primary-foreground hover:bg-primary/90"
               asChild
             >
-              <a href="/resume.pdf" download>
+              <a href="/Adwaitha_resume(1).pdf" download>
                 <Download size={18} className="mr-2" />
                 Download Resume
               </a>
