@@ -24,7 +24,7 @@ const HeroSection = () => {
           </h2>
           
           <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto mb-8 animate-slide-up delay-200">
-            I design and build reliable, well-structured software solutions with a focus on clarity, usability, and real-world relevance.
+            Passionate about developing practical software solutions and understanding emerging technologies.
           </p>
           
           <div className="flex flex-wrap items-center justify-center gap-4 mb-12 animate-slide-up delay-300">
